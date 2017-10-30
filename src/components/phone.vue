@@ -1,0 +1,15 @@
+<template>
+    <div>
+        <p><h3>Phone:</h3>1875080****</p>
+        <p><h3>Adrress:</h3>
+        <p>DaTian</p>
+        <p>FuJian,SanMing</p>
+        <p>China</p>
+        </p>
+    </div>
+</template>
+<style>
+h3{
+    color:#e4c8c8;
+}
+</style>
